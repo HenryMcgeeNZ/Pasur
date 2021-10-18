@@ -3,6 +3,7 @@ package pasur;
 /**
  * @author Alireza Ostovar
  * 29/09/2021
+ * The end
  */
 
 import ch.aplu.jcardgame.Card;
